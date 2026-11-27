@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER NOIR",
+  "description": "Contemporary luxury fashion house — refined essentials, architectural tailoring, editorial campaigns, and curated objects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
